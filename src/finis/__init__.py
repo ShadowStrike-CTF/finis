@@ -1,3 +1,3 @@
-# finis — Legal boundary and jurisdiction scoping tool.
+# finis — Strategos tool. Coming soon.
 # © 2026 Strategos Pty Ltd. All rights reserved.
 # Aut Viam Inveniam Aut Faciam
