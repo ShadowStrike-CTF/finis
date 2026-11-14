@@ -1,6 +1,6 @@
 # finis
 
-Legal boundary and jurisdiction scoping tool. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/finis
 
